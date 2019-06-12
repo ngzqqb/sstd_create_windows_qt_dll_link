@@ -7,3 +7,7 @@ debug/
 ui_MainWindow.h
 
 *.9-pre1
+.qmake.stash
+.vs/sstd_create_windows_qt_dll_link/v15/.suo
+.vs/sstd_create_windows_qt_dll_link/v15/Browse.VC.db
+sstd_create_windows_qt_dll_link.sln
